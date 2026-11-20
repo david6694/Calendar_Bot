@@ -1,6 +1,6 @@
 # Skello to TimeTree Calendar Bot
 
-A lightweight Python bot that automatically synchronizes upcoming work shifts from a **Skello** iCalendar feed (`.ics` / `webcal://`) to a **TimeTree** calendar via GitHub Actions. This project is not affiliated with or endorsed by Skello or TimeTree.
+A lightweight Python bot that automatically synchronizes upcoming work shifts from a **Skello** iCalendar feed (`.ics` / `webcal://`) to a **TimeTree** calendar via GitHub Actions.
 Also courtesy of https://github.com/ehs208/TimeTree-MCP for his work that saved me a lot of time.
 
 ## Features
